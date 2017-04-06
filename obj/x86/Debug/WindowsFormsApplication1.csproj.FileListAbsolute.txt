@@ -1,0 +1,23 @@
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\encog-core-cs.dll
+C:\Users\Григорьев Андрей\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\encog-core-cs.dll
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\григорьев андрей\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

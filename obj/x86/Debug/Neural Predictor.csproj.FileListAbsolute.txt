@@ -1,0 +1,36 @@
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.exe
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.pdb
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\encog-core-cs.dll
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.exe
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.pdb
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Григорьев Андрей\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.exe
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.pdb
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.exe
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.pdb
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.csprojResolveAssemblyReference.cache
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Григорьев\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.csproj.GenerateResource.Cache
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.exe
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.pdb
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.exe
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Neural Predictor.pdb
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\encog-core-cs.dll
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.csprojResolveAssemblyReference.cache
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Cloud@Mail.Ru\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Neural Predictor.csproj.GenerateResource.Cache
